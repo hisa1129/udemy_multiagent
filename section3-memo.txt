@@ -60,9 +60,9 @@
 ■ パーミッションモードの切り替え
   Shift+Tab（繰り返し押して巡回）
 
-  Normal       → 表示なし（デフォルト）
-  Auto-accept  → 「auto-accept edit on」と表示
-  Plan         → 「plan mode on」と表示
+  Normal       → 表示なし（デフォルト）　Ask before edits
+  Auto-accept  → 「auto-accept edit on」と表示 Edit automaticaly
+  Plan         → 「plan mode on」と表示 plan mode
 
 ■ 3つのモードの比較
   ┌─────────────────┬──────────┬───────────┐
